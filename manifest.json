@@ -1,6 +1,6 @@
 {
  "index.pck": {
-  "size": 282142240,
+  "size": 282605672,
   "parts": [
    "parts/pck_00.b64",
    "parts/pck_01.b64",
@@ -93,7 +93,7 @@
    "parts/pck_88.b64",
    "parts/pck_89.b64"
   ],
-  "sha256": "ac741a6f70b314c3f203393ddbfcaf1af0bcc59bcea36c36b2563fc8168e1486"
+  "sha256": "cca4841d9d84b01dd299f926d90624d8509474ba89c492c922aa0ff491b8ae40"
  },
  "index.wasm": {
   "size": 39514754,
